@@ -1,0 +1,12 @@
+body{
+  background: lightgray;
+  margin: 0;
+}
+
+.container{
+  padding: 30px;
+  margin: 0 auto;
+  width: 50%;
+  height: calc(33vh - 190px);
+  background: white;
+}
